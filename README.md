@@ -12,18 +12,18 @@ I'm a passionate technologist and leader, driven by the thrill of innovation and
 🧠  **I'm currently learning**: Advanced Machine Learning Techniques, Cloud Architecture  
 ⚡  **Fun fact**: I have participated in over 15 hackathons!
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Software Frameworks
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/google-cloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/google-cloud-colored.svg" width="36" height="36" alt="Google Cloud" style="margin-right: 10px;" />
 </p>
 
 ### GitHub Stats
@@ -34,8 +34,4 @@ I'm a passionate technologist and leader, driven by the thrill of innovation and
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7970&layout=compact&theme=algolia" height="200"/>
 </a>
 
-### 🧑‍💻 Top Repositories
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7970&repo=VectorDriveAI&theme=algolia)](https://github.com/Ayush7970/VectorDriveAI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7970&repo=ChatNexus&theme=algolia)](https://github.com/Ayush7970/ChatNexus) |
-| --- | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7970&repo=SuperHealthApp&theme=algolia)](https://github.com/Ayush7970/SuperHealthApp) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayush7970&repo=AI-Disaster-Response&theme=algolia)](https://github.com/Ayush7970/AI-Disaster-Response) |
 
