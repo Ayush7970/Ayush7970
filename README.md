@@ -1,4 +1,7 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Bhardwaj
+Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving" style="height: 24px; vertical-align: middle;"> My name is Ayush Bhardwaj <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsa25xNGZwMDVvZ2xrZDBsOGJ6Z24xN2hnMmxmMzVpZmF6bXoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" alt="Smiling" style="height: 24px; vertical-align: middle;">
+
+
+
 ---
 **`Computer Science Student @ UIC`**
 
