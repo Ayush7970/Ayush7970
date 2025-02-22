@@ -27,7 +27,7 @@ I'm a passionate technologist and leader, driven by the thrill of innovation and
 
 ### GitHub Stats
 <a href="https://github.com/Ayush7970?tab=overview&from=2025-01-01&to=2025-12-31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7970&show_icons=true&theme=algolia" height="150" style="margin-right: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7970&show_icons=true&theme=algolia" height="150" style="margin-right: 100px;"/>
 </a>
 <a href="https://github.com/Ayush7970">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7970&layout=compact&theme=algolia" height="150"/>
