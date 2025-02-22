@@ -6,8 +6,7 @@ I'm a passionate technologist and leader, driven by the thrill of innovation and
 
 🌍  **I'm based in**: Chicago, Illinois  
 ✉️  **Contact me at**: [ayush975600@gmail.com](mailto:ayush975600@gmail.com)  
-🔗 **LinkedIn**: [ayush--bhardwaj](https://www.linkedin.com/in/ayush--bhardwaj)  
-👨‍💻 **GitHub**: [Ayush7970](https://github.com/Ayush7970)  
+🔗 **LinkedIn**: [ayush--bhardwaj](https://www.linkedin.com/in/ayush--bhardwaj)
 🌐 **Portfolio**: [Visit Here](https://ayush7970.github.io/)  
 🧠  **I'm currently learning**: Advanced Machine Learning Techniques, Cloud Architecture  
 ⚡  **Fun fact**: I was the Winner of Sparkhacks 2024, Computer Science Ambassdor UIC 2024 and Orienatation Leader 2023!
