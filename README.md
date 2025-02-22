@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Bhardwaj
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Bhardwaj
 ---
 **`Computer Science Student @ UIC`**
 
@@ -10,7 +10,7 @@ I'm a passionate technologist and leader, driven by the thrill of innovation and
 👨‍💻 **GitHub**: [Ayush7970](https://github.com/Ayush7970)  
 🌐 **Portfolio**: [Visit Here](https://ayush7970.github.io/)  
 🧠  **I'm currently learning**: Advanced Machine Learning Techniques, Cloud Architecture  
-⚡  **Fun fact**: I have participated in over 15 hackathons!
+⚡  **Fun fact**: I was the Winner of Sparkhacks 2024, Computer Science Ambassdor UIC 2024 and Orienatation Leader 2023!
 
 ### 🧰 Languages and Software Frameworks
 <p align="left">
@@ -23,7 +23,7 @@ I'm a passionate technologist and leader, driven by the thrill of innovation and
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="margin-right: 40px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="margin-right: 40px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" style="margin-right: 40px;" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/google-cloud-colored.svg" width="36" height="36" alt="Google Cloud" style="margin-right: 10px;" />
+<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/google-cloud-colored.svg" width="36" height="36" alt="Google Cloud" style="margin-right: 10px;" /> -->
 </p>
 
 ### GitHub Stats
