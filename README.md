@@ -2,7 +2,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ---
 **`Computer Science Student @ UIC`**
 
-I'm a passionate technologist and leader, driven by the thrill of innovation and the success of my team. My journey in technology is marked by a relentless pursuit of learning and building—from advanced coding projects to innovative hackathon prototypes. I thrive in environments where creativity flourishes and collaboration is fundamental. As a mentor and motivator, I've successfully guided peers towards achieving our collective goals. My technical arsenal includes Python, Java, C/C++, HTML/CSS, JavaScript, TypeScript, SQL, along with proficiency in frameworks like React.js, Angular, and Node.js. I'm also skilled in using tools such as Git, Docker, and cloud services like AWS and Google Cloud Platform, enhancing my capability to craft cutting-edge solutions.
+Welcome to my GitHub profile! I'm Ayush Bhardwaj, a dedicated Computer Science student at the University of Illinois at Chicago, where I am actively honing my skills in software development and data analysis. Here, you'll find a variety of projects showcasing my proficiency in programming languages such as Python, Java, C++, and more, as well as my work with frameworks like React, Angular, and Docker. Each repository reflects my passion for creating efficient, innovative solutions and my commitment to continuous learning and improvement. Whether you're here for collaboration or just to explore, I hope you find my work insightful and inspiring. Let's connect and build something great together!
 
 🌍  **I'm based in**: Chicago, Illinois  
 ✉️  **Contact me at**: [ayush975600@gmail.com](mailto:ayush975600@gmail.com)  
