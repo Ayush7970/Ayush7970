@@ -5,7 +5,7 @@
 ---
 **`Computer Science Student @ UIC`**
 
-Welcome to my GitHub profile! I'm a dedicated Computer Science student at the University of Illinois Chicago, where I am actively honing my skills in software development and data analysis. Here, you'll find a variety of projects showcasing my proficiency in programming languages such as Python, Java, C++, and more, as well as my work with frameworks like React, Angular, and Docker. Each repository reflects my passion for creating efficient, innovative solutions and my commitment to continuous learning and improvement. Whether you're here for collaboration or just to explore, I hope you find my work insightful and inspiring. Let's connect and build something great together!
+Welcome to my GitHub profile! I'm a dedicated Computer Science student at the University of Illinois Chicago, where I am actively honing my skills in software development and data analysis. Here, you'll find a variety of projects showcasing my proficiency in programming languages such as Python, Java, C++, and more, as well as my work with frameworks like React, Django, Flask, and Docker. Each repository reflects my passion for creating efficient, innovative solutions and my commitment to continuous learning and improvement. Whether you're here for collaboration or just to explore, I hope you find my work insightful and inspiring. Let's connect and build something great together!
 
 🌍  **I'm based in**: Chicago, Illinois  
 ✉️  **Contact me at**: [ayush975600@gmail.com](mailto:ayush975600@gmail.com)  
