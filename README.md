@@ -1,6 +1,6 @@
  # Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving" style="height: 30px; vertical-align: middle;"> My name is Ayush Bhardwaj  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsa25xNGZwMDVvZ2xrZDBsOGJ6Z24xN2hnMmxmMzVpZmF6bXoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" alt="Smiling" style="height: 30px; vertical-align: middle;">
 
-**`Computer Science Student @ UIC`**
+**`Computer Science Student and Lead Web Developer @ UIC`**
 
 Welcome to my GitHub profile! I'm a dedicated Computer Science student at the University of Illinois Chicago, where I am actively honing my skills in software development and data analysis. Here, you'll find a variety of projects showcasing my proficiency in programming languages such as Python, Java, C++, and more, as well as my work with frameworks like React, Django, Flask, and Docker. Each repository reflects my passion for creating efficient, innovative solutions and my commitment to continuous learning and improvement. Whether you're here for collaboration or just to explore, I hope you find my work insightful and inspiring. Let's connect and build something great together!
 
