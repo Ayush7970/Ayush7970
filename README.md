@@ -38,8 +38,6 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science student at the Un
 </p>
 
 
-
-
 ### GitHub Stats
 <a href="https://github.com/Ayush7970?tab=overview&from=2025-01-01&to=2025-12-31">
   <img  src="https://github-readme-stats.vercel.app/api?username=Ayush7970&show_icons=true&theme=algolia" height="180" style="margin-right: 100px;"/>
