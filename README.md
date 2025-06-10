@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science student at the Un
 🌍  **I'm based in**: Chicago, Illinois  
 ✉️  **Contact me at**: [ayush975600@gmail.com](mailto:ayush975600@gmail.com)  
 🔗 **LinkedIn**: [ayush--bhardwaj](https://www.linkedin.com/in/ayush--bhardwaj)  
-🌐 **Portfolio**: [Visit Here](https://ayush7970.github.io/)  
+🌐 **Portfolio**: [Visit Here](https://my-portfolio-green-psi-36.vercel.app/)  
 🧠  **I'm currently learning**: Advanced Machine Learning Techniques, Cloud Architecture  
 ⚡  **Fun fact**: I was the Winner of Sparkhacks 2024, Computer Science Ambassdor UIC 2024 and Orienatation Leader 2023!
 
