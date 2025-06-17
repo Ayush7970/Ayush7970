@@ -6,8 +6,8 @@ Welcome to my GitHub profile — the place where I spend most of my day! I am a 
 
 The best projects I’m currently working on are:
 
-- 🚀 [Tariffarm](https://github.com/Ayush7970/tariffarm)
-- ⚡ [KafNodeX](https://github.com/Ayush7970/kafnodex)
+- 🚀 [Tariffarm](https://github.com/Ayush7970/Wildhacks_tariff)
+- ⚡ [KafNodeX](https://github.com/Ayush7970/kafNodeX)
 - 🌱 [Sustainable AI Farming Assistant](https://github.com/Ayush7970/sparkshacks_teamAI)
 
 
