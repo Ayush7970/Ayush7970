@@ -16,7 +16,7 @@ The best projects I’m currently working on are:
 🔗 **LinkedIn**: [ayush7970](https://www.linkedin.com/in/ayush7970/)  
 🌐 **Portfolio**: [Visit Here](https://ayush7970.vercel.app/)  
 🧠  **I'm currently learning**: Advanced Machine Learning Techniques, Cloud Architecture  
-⚡  **Fun fact**: I was the Winner of Sparkhacks 2024, Computer Science Ambassdor UIC 2024 and Orienatation Leader 2023!
+⚡  **Fun fact**: I won WildHacks 2025 and SparkHacks 2024, and I was a UIC Computer Science Ambassador in 2024 and an Orientation Leader in 2023!
 
 ### 🧰 Languages and Software Frameworks
 <p align="left">
