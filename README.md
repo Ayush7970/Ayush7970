@@ -45,12 +45,4 @@ The best projects I’m currently working on are:
 </p>
 
 
-### GitHub Stats
-<a href="https://github.com/Ayush7970?tab=overview&from=2025-01-01&to=2025-12-31">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Ayush7970&show_icons=true&theme=algolia" height="180" style="margin-right: 100px;"/>
-</a>
-<a href="https://github.com/Ayush7970">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7970&layout=compact&theme=algolia" height="180"/>
-</a>
-
 
