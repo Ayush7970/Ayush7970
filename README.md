@@ -1,6 +1,6 @@
  # Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving" style="height: 30px; vertical-align: middle;"> My name is Ayush Bhardwaj  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsa25xNGZwMDVvZ2xrZDBsOGJ6Z24xN2hnMmxmMzVpZmF6bXoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" alt="Smiling" style="height: 30px; vertical-align: middle;">
 
-**`Computer Science Student and Lead Web Developer @ UIC`**
+**`Recent grad, Software & AI Engineer @ UIC`**
 
 Welcome to my GitHub profile — the place where I spend most of my day! I am a hackathon enthusiast and currently work as a **Software Engineering Intern at Invision Capital** in their Chicago office. I have already participated in 6 hackathons this year. I also love developing websites, live on LeetCode, and enjoy challenging people for some healthy competition!
 
